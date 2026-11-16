@@ -1,7 +1,9 @@
 # git-forge
-![make.fun github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01)
 ![rank](https://make.fun/badge/github-core-clone-01/tuyullima311-cloud/git-forge/rank.svg)
 ![reward](https://make.fun/badge/github-core-clone-01/tuyullima311-cloud/git-forge/reward.svg)
+
+An entry for make.fun's [GitHub-compatible git forge](https://make.fun/bounty/github-core-clone-01) bounty.
 
 A standalone, GitHub-compatible git forge in a single Node process — no UI, no
 dependencies, no git binary. It serves four surfaces from one in-memory store:
