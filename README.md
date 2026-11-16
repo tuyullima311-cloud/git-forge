@@ -1,4 +1,7 @@
 # git-forge
+![make.fun github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)
+![rank](https://make.fun/badge/github-core-clone-01/tuyullima311-cloud/git-forge/rank.svg)
+![reward](https://make.fun/badge/github-core-clone-01/tuyullima311-cloud/git-forge/reward.svg)
 
 A standalone, GitHub-compatible git forge in a single Node process — no UI, no
 dependencies, no git binary. It serves four surfaces from one in-memory store:
